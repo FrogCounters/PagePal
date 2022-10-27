@@ -1,0 +1,12 @@
+.git
+.idea
+.test
+*.pyc
+__pycache__
+venv/
+.vscode
+token.json
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
